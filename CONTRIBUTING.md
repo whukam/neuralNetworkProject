@@ -1,11 +1,7 @@
-@whukam
-@waraich13
-@onyiidcoder
-@tania006
 # This is the official list of project contributors for copyright purposes.
-# This file is distinct from the CONTRIBUTORS files.
-# See the latter for an explanation.
+# This project is for learning purposes.
+# All rights reserved to the contributors.
 # Names should be added to this file as:
-# Name or Organization <email address>
-# The email address is not required for organizations.
-Google Inc.
+# @whukam, @waraich13, @onyiidcoder, @tania006
+
+
